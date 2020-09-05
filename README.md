@@ -7,7 +7,7 @@ I am a Pasionate Software Engineer  I am interested in, writing  and developing 
 
 
 
-## 📕 CEO of Hostylegh [https://www.instagram.com/hostylegh/] 
+## 📕 CEO of Hostylegh [https://www.hostylegh.com] 
 ## Hostylegh is an interactive platform (Mobile App) designed to help students make better decision on choosing a hostel across all tertiary institutions in Ghana
 ## with the help of Data Science and AI.
 
