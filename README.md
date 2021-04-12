@@ -7,16 +7,16 @@ I am a Pasionate Software Engineer  I am interested in, writing  and developing 
 
 
 
-## 📕 CEO of Hostylegh [https://www.hostylegh.com] 
-## Hostylegh is an interactive platform (Mobile App) designed to help students make better decision on choosing a hostel across all tertiary institutions in Ghana
+## 📕 CEO of LiveInn
+## LiveInn is an interactive platform (Mobile App) designed to help students make better decision on choosing a hostel across all tertiary institutions in Ghana
 ## with the help of Data Science and AI.
 
 
 
 
 ## 📬 Get in touch
-
-- Twitter: [https://twitter.com/Richard96199400][3]
+- LinkedIn: [https://www.linkedin.com/in/richard-obiri/]
+- Twitter: [https://twitter.com/aframson77]
 - Instagram:[https://www.instagram.com/richobiri/]
 
 
@@ -31,8 +31,8 @@ I am a Pasionate Software Engineer  I am interested in, writing  and developing 
 </a>
 
 
-[2]: https://www.linkedin.com/in/aframson
-[3]: https://twitter.com/Richard96199400
+[2]: https://www.linkedin.com/in/richard-obiri/
+[3]: https://twitter.com/aframson77
 [4]: https://www.instagram.com/richobiri
 
 
