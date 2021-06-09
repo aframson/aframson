@@ -4,25 +4,10 @@ Hey there !! 👋🏻,
 
 I am a Pasionate Software Engineer  I am interested in, writing  and developing (open source) software solutions for and with JavaScript, PHP, ReactJs,React native,NodeJS and python.
 
-
-
-
-## 📕 CEO of LiveInn
-## LiveInn is an interactive platform (Mobile App) designed to help students make better decision on choosing a hostel across all tertiary institutions in Ghana
-## with the help of Data Science and AI.
-
-
-
-
 ## 📬 Get in touch
 - LinkedIn: [https://www.linkedin.com/in/richard-obiri/]
 - Twitter: [https://twitter.com/aframson77]
 - Instagram:[https://www.instagram.com/richobiri/]
-
-
-
-
-
 
 ## &#x1f4c8; My GitHub Stats
 
