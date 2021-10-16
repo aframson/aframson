@@ -21,6 +21,7 @@
 
 <a href="https://www.linkedin.com/in/richard-obiri/">  
   <img align="left" alt="Richards Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+ LinkedIn
 </a>
 <a href="https://richard-obiri.vercel.app">  
   My Portfolio
