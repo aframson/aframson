@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aframson&label=Profile%20views&color=0e75b6&style=flat" alt="aframson" /> </p>
 
-- 🔭 I’m currently working on [Soma](https://somaapp.tech)
+- 🔭 I’m currently Upgrading my Data Structures
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Propmt Engineering**
 
 - 👨‍💻 All of my projects are available at [https://richardobiri.live](https://richardobiri.live)
 
