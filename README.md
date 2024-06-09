@@ -17,3 +17,5 @@
 
 - ⚡ Fun fact **I think am funny**
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
